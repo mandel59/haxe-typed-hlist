@@ -1,0 +1,12 @@
+{
+    "name": "typed-hlist",
+    "url": "https://github.com/mandel59/haxe-typed-hlist",
+    "license": "MIT",
+    "classPath": "src",
+    "tags": ["cross", "ds"],
+    "description": "Typed Heterogeneous List",
+    "version": "0.0.1",
+    "releasenote": "first release",
+    "contributors": ["mandel59"],
+    "dependencies": {}
+}
